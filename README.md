@@ -14,7 +14,7 @@
 
 Obtenez votre propre copie et commencez la personnalisation :
 
-[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-FF69B4?style=for-the-badge&logo=github)](https://github.com/Damon938/QUEEN-YAMADA-MD/fork)
+[![FORK REPO](https://github.com/damon938/QUENN-YAMEI-MD)
 
 ---
 
