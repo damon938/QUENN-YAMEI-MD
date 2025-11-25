@@ -14,13 +14,13 @@
 
 Obtenez votre propre copie et commencez la personnalisation :
 
-![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-FF69B4?style=for-the-badge&logo=github)](https://github.com/damon938/QUENN-YAMEI-MD)
+[![👑 FORK QUEEN YAMEI MD 👑](https://img.shields.io/badge/FORK%20QUEEN%20YAMEI%20MD-ROYAL%20EDITION-ff1493?style=for-the-badge&logo=github)](https://github.com/damon938/QUENN-YAMEI-MD/fork)
 
 ---
 
 ## ✨ Generate Your Session ID  
 
-Sécurisez votre session WhatsApp pour démarrer le bot :
+Sécurisez session pour démarrer le bot :
 
 [![GET SESSION](https://img.shields.io/badge/GET%20SESSION-Generate%20Now-DB7093?style=for-the-badge&logo=whatsapp)](https://your-session-generator-link.com/)
 
